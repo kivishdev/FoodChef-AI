@@ -1,3 +1,5 @@
+Assignment Project Documentation: https://www.notion.so/Use-case-Template-for-Assignment-1ff707e812c7800e809ce7c6aa2c02f6?pvs=4
+
 🎯 Project Overview
 An intelligent conversational AI agent that revolutionizes restaurant reservation management for FoodieSpot, a growing restaurant chain. This system demonstrates advanced prompt engineering, tool calling architecture, and business strategy thinking required for a Forward Deployed Software Engineer role.
 
