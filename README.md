@@ -20,16 +20,17 @@ Git
 
  1. Clone repository
 git clone https://github.com/YOUR_USERNAME/FoodChef-AI.git
+
 cd foodiespot-reservation-agent
 
- 2. Install dependencies
+ 3. Install dependencies
 pip install -r requirements.txt
 
- 3. Configure environment
+ 4. Configure environment
 cp .env.example .env
 #Adding OpenRouter API key to .env file
 
- 4. Launch application
+ 5. Launch application
 streamlit run frontend/app.py
 
 Project Architecture
