@@ -19,7 +19,7 @@ OpenRouter API Key
 Git
 
  1. Clone repository
-git clone https://github.com/YOUR_USERNAME/foodiespot-reservation-agent.git
+git clone https://github.com/YOUR_USERNAME/FoodChef-AI.git
 cd foodiespot-reservation-agent
 
  2. Install dependencies
