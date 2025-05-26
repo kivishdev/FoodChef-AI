@@ -35,15 +35,16 @@ streamlit run frontend/app.py
 Project Architecture
 text
 foodiespot-reservation-agent/
-├── 📊 data/restaurant_data.json      # 30+ restaurant database
-├── 🛠️ tools/
+├──  data/restaurant_data.json      # 30+ restaurant database
+├── tools/
 │   ├── reservation.py               # Booking management engine
 │   └── recommend.py                 # AI recommendation system
-├── 🧠 llm/llama3.py                 # LLaMA 3.1-8B integration
-├── ⚙️ backend/agent.py              # Core conversational logic
-├── 🎨 frontend/app.py               # Streamlit web interface
-└── 📝 utils/logger.py               # Production logging
-🧠 Prompt Engineering Approach
+├── llm/llama3.py                 # LLaMA 3.1-8B integration
+├──  backend/agent.py              # Core conversational logic
+├──  frontend/app.py               # Streamlit web interface
+└──  utils/logger.py               # Production logging
+
+🧠 Prompt Engineering Approach:
 Strategic Design Philosophy
 My prompt engineering strategy focuses on reliability, scalability, and business value - key requirements for enterprise AI deployment.
 
